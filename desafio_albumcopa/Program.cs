@@ -23,7 +23,7 @@ namespace desafio_albumcopa
         }
       }
 
-      var albumHash = new HashSet<int32>(albumDeFigurinha);
+      var albumHash = new HashSet<int>(albumDeFigurinha);
 
       totalDeFigurinhas = numeroDeFigurinhas - albumHash.Count;
 

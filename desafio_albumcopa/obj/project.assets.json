@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VsCode-projetos\\Projects\\DotNetDIO\\Desafios\\album_copa\\desafio_albumcopa\\desafio_albumcopa.csproj",
+      "projectUniqueName": "E:\\VsCode-projetos\\Projects\\DotNetDIO\\Desafios\\desafio_albumcopa\\desafio_albumcopa.csproj",
       "projectName": "desafio_albumcopa",
-      "projectPath": "E:\\VsCode-projetos\\Projects\\DotNetDIO\\Desafios\\album_copa\\desafio_albumcopa\\desafio_albumcopa.csproj",
+      "projectPath": "E:\\VsCode-projetos\\Projects\\DotNetDIO\\Desafios\\desafio_albumcopa\\desafio_albumcopa.csproj",
       "packagesPath": "C:\\Users\\ivani\\.nuget\\packages\\",
-      "outputPath": "E:\\VsCode-projetos\\Projects\\DotNetDIO\\Desafios\\album_copa\\desafio_albumcopa\\obj\\",
+      "outputPath": "E:\\VsCode-projetos\\Projects\\DotNetDIO\\Desafios\\desafio_albumcopa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivani\\AppData\\Roaming\\NuGet\\NuGet.Config",
