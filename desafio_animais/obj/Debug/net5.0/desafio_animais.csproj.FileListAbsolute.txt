@@ -1,0 +1,16 @@
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\bin\Debug\net5.0\desafio_animais.exe
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\bin\Debug\net5.0\desafio_animais.deps.json
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\bin\Debug\net5.0\desafio_animais.runtimeconfig.json
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\bin\Debug\net5.0\desafio_animais.runtimeconfig.dev.json
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\bin\Debug\net5.0\desafio_animais.dll
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\bin\Debug\net5.0\ref\desafio_animais.dll
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\bin\Debug\net5.0\desafio_animais.pdb
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\obj\Debug\net5.0\desafio_animais.csprojAssemblyReference.cache
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\obj\Debug\net5.0\desafio_animais.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\obj\Debug\net5.0\desafio_animais.AssemblyInfoInputs.cache
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\obj\Debug\net5.0\desafio_animais.AssemblyInfo.cs
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\obj\Debug\net5.0\desafio_animais.csproj.CoreCompileInputs.cache
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\obj\Debug\net5.0\desafio_animais.dll
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\obj\Debug\net5.0\ref\desafio_animais.dll
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\obj\Debug\net5.0\desafio_animais.pdb
+E:\VsCode-projetos\Projects\DotNetDIO\Desafios\desafio_animais\obj\Debug\net5.0\desafio_animais.genruntimeconfig.cache
